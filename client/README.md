@@ -1,8 +1,46 @@
-# React + Vite
+# Elara E-commerce Website - Client (React + Vite)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is the frontend of the Elara E-commerce website, built with React and Vite.
 
-Currently, two official plugins are available:
+## Prerequisites
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [Node.js](https://nodejs.org/) and npm
+
+## Installation
+
+1. **Navigate to the `client` folder:**
+   ```bash
+   cd client
+   ```
+
+2. **Install dependencies:**
+```bash
+Copy code
+npm install
+```
+
+## Environment Setup
+If you need to configure environment variables, add them in a .env file here. (Commonly used for Vite projects, e.g., VITE_API_URL to set API base URL).
+
+## Development Server
+To start the development server with hot-reloading:
+
+```bash
+npm run dev
+```
+By default, the site will be available at http://localhost:5173.
+
+## Building for Production
+To build a production-ready version of the client:
+
+```bash
+npm run build
+```
+
+The production build will be created in the dist directory.
+
+## Additional Plugins
+This project uses:
+
+Tailwind CSS for styling.
+@radix-ui components for accessibility and design.
