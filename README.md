@@ -8,6 +8,7 @@ The **Elara E-commerce** website is a full-stack application built using the **M
 Elara-website/
 ├── client/    # Frontend (React + Vite)
 ├── server/    # Backend (Node + Express)
+```
 
 ## Getting Started
 
