@@ -21,7 +21,7 @@ Elara-website/
 
 1. **Clone the Repository**
     ```bash
-    git clone (https://github.com/RinitJain/Elara-e-commerce.git)
+    git clone https://github.com/RinitJain/Elara-e-commerce.git
     cd Elara-website
     ```
 
