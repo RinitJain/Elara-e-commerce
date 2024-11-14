@@ -15,7 +15,6 @@ This is the frontend of the Elara E-commerce website, built with React and Vite.
 
 2. **Install dependencies:**
 ```bash
-Copy code
 npm install
 ```
 
@@ -40,7 +39,9 @@ npm run build
 The production build will be created in the dist directory.
 
 ## Additional Plugins
-This project uses:
 
-Tailwind CSS for styling.
-@radix-ui components for accessibility and design.
+This project uses the following plugins:
+
+- **Tailwind CSS** for styling.
+- **@radix-ui** components for accessibility and design.
+
