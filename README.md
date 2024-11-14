@@ -21,7 +21,7 @@ Elara-website/
 
 1. **Clone the Repository**
     ```bash
-    git clone <repository-url>
+    git clone (https://github.com/RinitJain/Elara-e-commerce.git)
     cd Elara-website
     ```
 
@@ -44,3 +44,23 @@ In the `server` folder, create a `.env` file and add your MongoDB URI and any ot
 ```dotenv
 MONGO_URL="your-mongo-connection-string"
 PORT=5000
+```
+
+### Running the Project
+1. **Start the Backend:**
+
+```bash
+cd server
+npm run dev
+```
+2. **Start the Frontend:** In a separate terminal window, run:
+
+```bash
+cd client
+npm run dev
+```
+Visit the following URLs:
+
+Frontend: http://localhost:5173
+Backend: http://localhost:5000
+
