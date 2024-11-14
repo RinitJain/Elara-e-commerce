@@ -36,11 +36,3 @@ npm start
 
 The server will be available at http://localhost:5000.
 
-## API Endpoints
-Product Management: /api/products
-Cart Management: /api/cart
-User Address Management: /api/address
-Order Processing: /api/order
-Product Search: /api/search
-Product Reviews: /api/reviews
-Refer to the API documentation for detailed information on request structure and responses.
